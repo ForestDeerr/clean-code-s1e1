@@ -12,7 +12,7 @@
 }
 
 .heading {
-  list-style:none;
+  list-style: none;
   color: #333;
   font-weight: 700;
   font-size: 15px;
@@ -29,7 +29,7 @@
 }
 
 .task-item {
-  list-style:none;
+  list-style: none;
   overflow: hidden;
   padding: 20px 0;
   border-bottom: 1px solid #eee;
@@ -47,7 +47,7 @@
   width: 60px;
   font-family: Lato, sans-serif;
   cursor: pointer;
-  outline:none;
+  outline: none;
 }
 
 .btn:hover {
@@ -107,7 +107,7 @@
   border-radius: 6px;
   font-family: Lato, sans-serif;
   color: #888;
-  outline:none;
+  outline: none;
 }
 
 .add-task:focus {
@@ -131,7 +131,7 @@
 /* Task list */
 .input-task {
   width: 226px;
-  display:none;
+  display: none;
   flex-grow: 1;
   margin: 0;
   font-size: 18px;
@@ -143,7 +143,7 @@
   border-radius: 6px;
   font-family: Lato, sans-serif;
   color: #888;
-  outline:none;
+  outline: none;
 }
 
 .input-task:focus {
@@ -157,12 +157,12 @@
 
 /* Edit Task */
 .edit-mode .input-task {
-  display:inline-block;
-  width:224px
+  display: inline-block;
+  width: 224px
 }
 
 .edit-mode .label-task {
-  display:none;
+  display: none;
 }
 
 .delete img {
