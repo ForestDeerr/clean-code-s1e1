@@ -114,7 +114,8 @@
   color: #333;
 }
 
-.add-btn, .edit {
+.add-btn,
+.edit {
   background: none;
   border: 0px;
   color: #888;
