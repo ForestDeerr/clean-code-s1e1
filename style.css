@@ -51,7 +51,7 @@
 }
 
 .btn:hover {
-  color: #3a3A3a;
+  color: #3a3a3a;
 }
 
 .info {
@@ -102,8 +102,8 @@
   line-height: 18px;
   height: 21px;
   padding: 0 9px;
-  border: 1px solid #dDd;
-  background: #FFF;
+  border: 1px solid #ddd;
+  background: #fff;
   border-radius: 6px;
   font-family: Lato, sans-serif;
   color: #888;
@@ -126,7 +126,7 @@
 }
 
 .add-btn:hover {
-  color: #3a3A3a;
+  color: #3a3a3a;
 }
 
 /* Task list */
@@ -139,7 +139,7 @@
   line-height: 18px;
   height: 21px;
   padding: 0 9px;
-  border: 1px solid #dDd;
+  border: 1px solid #ddd;
   background: #FFF;
   border-radius: 6px;
   font-family: Lato, sans-serif;
