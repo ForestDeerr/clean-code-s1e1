@@ -38,7 +38,6 @@
   align-items: center;
 }
 
-
 .btn {
   background: none;
   border: 0px;
@@ -60,15 +59,16 @@
   display: block;
   text-align: right;
 }
+
 .info img {
   width: 100%;
 }
+
 .more-info {
   font-family: fantasy, cursive;
 }
 
 /* New Task */
-
 .add-item-label {
   display: block;
   margin: 0 0 20px;
@@ -171,6 +171,7 @@
   transform: rotateZ(45deg);
   transition: transform 200ms ease-in;
 }
+
 .delete img:hover {
   transform: rotateZ(0);
 }
