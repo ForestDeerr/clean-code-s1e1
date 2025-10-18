@@ -17,10 +17,6 @@
   font-family: fantasy, cursive;
 }
 
-@media (max-width:768px) {
- .eisenhower-matrix-info { text-align: center;
-}
-}
 .main-page {
   display: block;
   width: 500px;
@@ -142,4 +138,10 @@
 
 .edit-mode .disabled {
   display: none;
+}
+
+@media (max-width:768px) {
+  .eisenhower-matrix-info {
+    text-align: center;
+  }
 }
