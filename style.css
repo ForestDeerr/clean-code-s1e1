@@ -3,27 +3,23 @@
   background-color: #f8f8f8;
   color: #333;
   font-family: Lato, sans-serif;
+  display: block;
+  width: 500px;
+  margin: 0 auto 0;
 }
 
-.eisenhower-matrix-info {
-  width: 500px;
+.info {
   margin: 0 auto;
   display: block;
   text-align: right;
 }
 
-.eisenhower-matrix-info img {
+.info img {
   width: 100%;
 }
 
-.eisenhower-matrix-info .more-inf {
+.info .more-inf {
   font-family: fantasy, cursive;
-}
-
-.main-page {
-  display: block;
-  width: 500px;
-  margin: 0 auto 0;
 }
 
 .task-row-wrapper {
@@ -144,7 +140,7 @@
 }
 
 @media (max-width:768px) {
-  .eisenhower-matrix-info {
+  .info {
     text-align: center;
   }
 }
